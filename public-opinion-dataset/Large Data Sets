@@ -1,0 +1,10 @@
+This list contains links in which you can download data sets. Could not upload the raw data as the files were too large: 
+
+1. A Twitter Dataset of 150+ million tweets related to COVID-19 for open research
+https://zenodo.org/record/3738018#.XsblWDpKhyx
+--> full_dataset-clean.tsv.gv has raw tweest (without retweets) 
+This Data set is in all languages but primarily English, Spanish and French
+
+2. Coronavirus Twitter Data: A collection of COVID-19 tweets with automated annotations
+https://zenodo.org/record/3735016#.Xsbk9DpKhyy
+With include date, keywords related to COVID-19 and the inferred geolocation
