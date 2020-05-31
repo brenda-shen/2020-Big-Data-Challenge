@@ -1,0 +1,5 @@
+This directory contains the script that hydrates the postIDs dataset into meaningfull data that can be subsequently analysed.
+It also contains the hydrated datasets about the posts and profiles present in the dataset.
+It also contains all the analysed data .csv files
+It also contains the files that creates the adjacency matrix for the network analysis
+It also contains the script that performs the network analysis pipeline
